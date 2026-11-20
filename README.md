@@ -1,2 +1,12 @@
-# mon-premier-projet-data
-Premier projet d'apprentissage GitHub et Data Analytics
+# Mon premier projet Data Analytics
+
+## À propos
+
+Ce repository contient mes premiers travaux d'apprentissage en Data Analytics.
+
+## Outils
+
+- Google Cloud
+- BigQuery
+- SQL
+- GitHub
